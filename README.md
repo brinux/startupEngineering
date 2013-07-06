@@ -1,4 +1,4 @@
 startupEngineering
 ==================
 
-Startup Engineering
+Homeworks and development for Coursera StartupEngineering course.
